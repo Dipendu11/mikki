@@ -1,0 +1,11 @@
+{
+  "name": "Mikki",
+  "description": "A real-time voice-to-voice AI assistant named Mikki with a witty and sassy personality.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "voice_interaction",
+    "real_time_ai"
+  ]
+}
